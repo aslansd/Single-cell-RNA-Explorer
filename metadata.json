@@ -1,0 +1,6 @@
+{
+  "name": "Single-cell RNA Explorer",
+  "description": "An interactive and automated single-cell RNA-seq pipeline offering quality control, UMAP embeddings, Gemini-powered cell annotation, pseudotime trajectory inference, and ligand-receptor communication networks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
